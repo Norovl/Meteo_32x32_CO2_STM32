@@ -56,13 +56,9 @@
 
 **Двойное нажатие** \[кн.1\] – в режим установки даты и времени Дальнейшее нажатие \[кн.1\] - последовательное переключение настройки Год – Месяц – Число – Часы – Минуты – Секунды – Корректировка скорости хода часов\*.
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/24.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/24.jpg) ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/25.jpg)
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/25.jpg)
-
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/26.jpg)
-
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/27.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/26.jpg) ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/27.jpg)
 
 ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/28.jpg)
 
@@ -118,10 +114,10 @@
 9.  Абсолютная влажность за час (на начало и конец часа) на улице и в квартире; \[12\]
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/8.jpg)
 
-10.  Давление и содержание СО2 за час (на начало и конец часа); \[13\]
+10.  Давление и содержание СО2 за час (на начало и конец часа); \[13\] 
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/9.jpg)
 
-11.  Точка росы за час (на начало и конец часа) на улице и в квартире; \[14\]
+11.  Точка росы за час (на начало и конец часа) на улице и в квартире; \[14\] 
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/10.jpg)
 
 12.  Суточный график температуры на улице и в квартире с последовательным отображением показаний за каждый час суток\*; \[20\]
