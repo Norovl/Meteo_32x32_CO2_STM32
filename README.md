@@ -120,15 +120,15 @@
 10.  Давление и содержание СО2 за час (на начало и конец часа); \[13\]
 
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/9.jpg)
-	
+
 11.  Точка росы за час (на начало и конец часа) на улице и в квартире; \[14\]
 
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/10.jpg)
-	
+
 12.  Суточный график температуры на улице и в квартире с последовательным отображением показаний за каждый час суток\*; \[20\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/11.jpg)
-	
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/11.jpg)
+
 13.  Суточный график относительной влажности на улице и в квартире с последовательным отображением показаний за каждый час суток; \[21\]
 
 	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/12.jpg)
