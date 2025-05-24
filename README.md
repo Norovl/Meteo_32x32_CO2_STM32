@@ -22,49 +22,49 @@
 
 ([https://aliexpress.ru/item/1005003541972572.html?spm=a2g2w.orderdetail.0.0.49934aa6X7jbTa&sku\_id=12000026227682554&\_ga=2.192225709.602763749.1748060249-1858461858.1585985510](https://aliexpress.ru/item/1005003541972572.html?spm=a2g2w.orderdetail.0.0.49934aa6X7jbTa&sku_id=12000026227682554&_ga=2.192225709.602763749.1748060249-1858461858.1585985510))
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image001.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image001.jpg)
 
 Состав датчиков:
 
 1.  Два датчика BME280 (температура, влажность, давление). У одного из них нужно перепаять дорожку для изменения адреса подключения;
 
 ([https://aliexpress.ru/item/32862445164.html?spm=a2g2w.orderdetail.0.0.24634aa6IzSH7J&sku\_id=10000000058075622&\_ga=2.255525007.602763749.1748060249-1858461858.1585985510](https://aliexpress.ru/item/32862445164.html?spm=a2g2w.orderdetail.0.0.24634aa6IzSH7J&sku_id=10000000058075622&_ga=2.255525007.602763749.1748060249-1858461858.1585985510))  
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image002.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image002.jpg)
 
 1.  Датчик MH-Z19B (СО2);
 
 ([https://aliexpress.ru/item/32371956420.html?sku\_id=12000035236616579&spm=a2g2w.productlist.search\_results.0.7c71c19cK1bYaC](https://aliexpress.ru/item/32371956420.html?sku_id=12000035236616579&spm=a2g2w.productlist.search_results.0.7c71c19cK1bYaC))  
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image003.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image003.jpg)
 
 1.  Фоторезистор (необязателен) – нужен для автоматической регулировки яркости при изменении внешнего освещения).
 
 ([https://aliexpress.ru/item/1005007944797703.html?sku\_id=12000042961408154&spm=a2g2w.productlist.search\_results.1.56b92e913V1ALD](https://aliexpress.ru/item/1005007944797703.html?sku_id=12000042961408154&spm=a2g2w.productlist.search_results.1.56b92e913V1ALD))
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image004.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image004.jpg)
 
 1.  В качестве панели отображения используются четыре WS2812B PIXELS PANEL размером 8 х 32 пикселей, соединенные сверху вниз, подключенные к контроллеру в нижнем углу (подключение и расположение панелей можно менять в настройках проекта).
 
 ([https://aliexpress.ru/item/4000544584524.html?spm=a2g2w.orderdetail.0.0.23ba4aa6R5I62Q&sku\_id=12000032067904150&\_ga=2.163242171.602763749.1748060249-1858461858.1585985510](https://aliexpress.ru/item/4000544584524.html?spm=a2g2w.orderdetail.0.0.23ba4aa6R5I62Q&sku_id=12000032067904150&_ga=2.163242171.602763749.1748060249-1858461858.1585985510))
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image005.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image005.jpg)
 
 **Схема подключения:**
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image006.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image006.jpg)
 
 **Управление и настройка метеостанции:**
 
 **Двойное нажатие** \[кн.1\] – в режим установки даты и времени Дальнейшее нажатие \[кн.1\] - последовательное переключение настройки Год – Месяц – Число – Часы – Минуты – Секунды – Корректировка скорости хода часов\*.
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/24.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/24.jpg)
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/25.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/25.jpg)
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/26.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/26.jpg)
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/27.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/27.jpg)
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/28.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/28.jpg)
 
 
 Выйти из режима настройки - удержание \[кн.1\] или переключение последовательно всех настраиваемых элементов
@@ -89,55 +89,55 @@
 
 (показания в квартире (In)) Температура + Влажность + График(и)/СО2. (отрицательные значения температуры отображаются синим цветом); \[0\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/0.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/0.jpg)
 
 1.  Температура на улице и в квартире до тысячных долей + часовой график; \[1\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/1.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/1.jpg)
 
 1.  Относительная влажность на улице и в квартире + часовой график; \[2\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/2.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/2.jpg)
 
 1.  Абсолютная влажность на улице и в квартире + часовой график; \[3\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/3.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/3.jpg)
 
 1.  Давление до тысячных долей и содержание СО2 в квартире PPM; \[4\]  
-    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/4.jpg)
+    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/4.jpg)
 	
 2.  Точка росы на улице и в квартире + часовой график; \[5\]  
-    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/5.jpg)
+    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/5.jpg)
 
 3.  Температура за час (на начало и конец часа) на улице и в квартире; \[10\]  
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/6.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/6.jpg)
 
 4.  Относительная влажность за час (на начало и конец часа) на улице и в квартире; \[11\]  
-    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/7.jpg)
+    ![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/7.jpg)
 	
 5.  Абсолютная влажность за час (на начало и конец часа) на улице и в квартире; \[12\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/8.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/8.jpg)
 
 6.  Давление и содержание СО2 за час (на начало и конец часа); \[13\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/9.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/9.jpg)
 
 7.  Точка росы за час (на начало и конец часа) на улице и в квартире; \[14\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/10.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/10.jpg)
 
 8.  Суточный график температуры на улице и в квартире с последовательным отображением показаний за каждый час суток\*; \[20\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/11.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/11.jpg)
 
 9.  Суточный график относительной влажности на улице и в квартире с последовательным отображением показаний за каждый час суток; \[21\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/12.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/12.jpg)
 
 10.  Суточный график абсолютной влажности на улице и в квартире с последовательным отображением показаний за каждый час суток; \[22\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/13.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/13.jpg)
 
 11.  Суточный график давления и содержания СО2 с последовательным отображением показаний за каждый час суток; \[23\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/14.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/14.jpg)
 
 12.  Суточный график точки росы на улице и в квартире с последовательным отображением показаний за каждый час суток; \[24\]
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/15.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/15.jpg)
 
 \*в суточных графиках добавляется красная метка в нижней части, справа от графика отображается значение показателя (температура In, Out, влажность In, Out, давление, СО2, точка росы In, Out).
 
@@ -147,28 +147,28 @@
 
 1.  Часовой график температуры (влажности, давления)\* Out, давление, СО2
 2.  Крупно давление, СО2
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/16.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/16.jpg)
 
 3.  Часовой график температуры (влажности, давления) Out, давление, часовой график СО2 (температуры, влажности) In
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/17.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/17.jpg)
 
 4.  Крупно часовой график температуры (влажности, давления) Out, СО2
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/18.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/18.jpg)
 
 5.  Часовой график температуры (влажности, давления) и влажности (давления, температуры) Out, СО2
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/19.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/19.jpg)
 
 6.  Крупно давление, часовой график СО2 (температуры, влажности) In
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/20.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/20.jpg)
 
 7.  Давление, часовой график СО2 (температуры, влажности) и температуры (влажности, СО2) In
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/21.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/21.jpg)
 
 8.  Часовой график температуры (влажности, давления) и влажности (давления, температуры) Out, часовой график СО2 (температуры, влажности) и температуры (влажности, СО2) In
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/22.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/22.jpg)
 
 9.  Крупно часовой график температуры (влажности, давления) Out, часовой график СО2 (температуры, влажности) In
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/23.jpg)
+	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/23.jpg)
 
 \*какой график будет отображаться для графиков Out выбирается двойным нажатием \[кн.2\], для графиков In тройным нажатием \[кн.2\].
 
@@ -180,4 +180,4 @@
 
 **Arduino IDE – выбор платы для загрузки:**
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/tree/main/media/image036.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/image036.jpg)
