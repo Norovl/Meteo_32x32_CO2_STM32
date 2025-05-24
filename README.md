@@ -83,47 +83,47 @@
 
 (показания в квартире (In)) Температура + Влажность + График(и)/СО2. (отрицательные значения температуры отображаются синим цветом); \[0\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/00.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/00.jpg)
 
 2.  Температура на улице и в квартире до тысячных долей + часовой график; \[1\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/1.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/1.jpg)
 
 3.  Относительная влажность на улице и в квартире + часовой график; \[2\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/2.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/2.jpg)
 
 4.  Абсолютная влажность на улице и в квартире + часовой график; \[3\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/3.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/3.jpg)
 
 5.  Давление до тысячных долей и содержание СО2 в квартире PPM; \[4\]  
     
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/4.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/4.jpg)
 	
 6.  Точка росы на улице и в квартире + часовой график; \[5\]  
     
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/5.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/5.jpg)
 
 7.  Температура за час (на начало и конец часа) на улице и в квартире; \[10\]  
 	
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/6.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/6.jpg)
 
 8.  Относительная влажность за час (на начало и конец часа) на улице и в квартире; \[11\]  
     
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/7.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/7.jpg)
 	
 9.  Абсолютная влажность за час (на начало и конец часа) на улице и в квартире; \[12\]
 	
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/8.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/8.jpg)
 
 10.  Давление и содержание СО2 за час (на начало и конец часа); \[13\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/9.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/9.jpg)
 
 11.  Точка росы за час (на начало и конец часа) на улице и в квартире; \[14\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/10.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/10.jpg)
 
 12.  Суточный график температуры на улице и в квартире с последовательным отображением показаний за каждый час суток\*; \[20\]
 
@@ -131,19 +131,19 @@
 
 13.  Суточный график относительной влажности на улице и в квартире с последовательным отображением показаний за каждый час суток; \[21\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/12.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/12.jpg)
 	
 14.  Суточный график абсолютной влажности на улице и в квартире с последовательным отображением показаний за каждый час суток; \[22\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/13.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/13.jpg)
 	
 15.  Суточный график давления и содержания СО2 с последовательным отображением показаний за каждый час суток; \[23\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/14.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/14.jpg)
 	
 16.  Суточный график точки росы на улице и в квартире с последовательным отображением показаний за каждый час суток; \[24\]
 
-	![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/15.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/15.jpg)
 	
 \*в суточных графиках добавляется красная метка в нижней части, справа от графика отображается значение показателя (температура In, Out, влажность In, Out, давление, СО2, точка росы In, Out).
 
