@@ -1,6 +1,6 @@
 Данный проект представляет собой метеостанцию с дополнительными возможностями, собранную на основе STM32F103C8T6.
 
-![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/0.jpg)
+![](https://github.com/Norovl/Meteo_32x32_CO2_STM32/blob/main/media/0+.jpg)
 
 Станция может показывать:
 
